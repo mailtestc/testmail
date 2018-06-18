@@ -92,12 +92,13 @@ public class TestMail {
             if (bodyemail.contains(expBody)) {
                 if (senderemail.equals(expSender)) {
                     System.out.println("Step04 CheckMail PASSED");
-                } else {
+                }
+                else {
                     System.out.println("Step04 CheckMail FAILED, senderemail is " + senderemail);
                 }
             }
-                else {
-                    System.out.println("Step04 CheckMail FAILED, bodyemail is " + bodyemail);
+            else {
+                System.out.println("Step04 CheckMail FAILED, bodyemail is " + bodyemail);
                 }
         }
          else {
