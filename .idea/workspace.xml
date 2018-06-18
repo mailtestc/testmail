@@ -27,8 +27,11 @@
       <file leaf-file-name="TestMail.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+            <state relative-caret-position="282">
+              <caret line="81" column="73" selection-start-line="81" selection-start-column="65" selection-end-line="81" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -277,39 +280,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Mailtest - 2018.06.18 at 02h 38m 21s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 02h 47m 34s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 02h 48m 40s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 02h 49m 32s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 02h 54m 36s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 02h 58m 00s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 02h 59m 57s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Mailtest - 2018.06.18 at 03h 21m 31s.xml">
-      <configuration name="Mailtest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestMail - 2018.06.18 at 03h 22m 26s.xml">
+    <history-entry file="TestMail - 2018.06.18 at 04h 27m 50s.xml">
       <configuration name="TestMail" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMail - 2018.06.18 at 03h 25m 01s.xml">
+    <history-entry file="TestMail - 2018.06.18 at 04h 28m 29s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 29m 27s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 30m 36s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 32m 50s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 34m 41s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 35m 15s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 35m 51s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 37m 23s.xml">
+      <configuration name="TestMail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMail - 2018.06.18 at 04h 39m 12s.xml">
       <configuration name="TestMail" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -320,8 +324,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.119791664" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41517243" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41517243" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -361,6 +365,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -375,6 +382,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -389,6 +399,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,8 +431,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestMail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        <state relative-caret-position="282">
+          <caret line="81" column="73" selection-start-line="81" selection-start-column="65" selection-end-line="81" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
