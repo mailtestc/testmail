@@ -128,9 +128,9 @@ public class TestMail {
 
         WebElement newlogin = driver.findElementById("mailbox:login");
         if (newlogin == null) {
-            System.out.println("Step04 LogOut FAILED");
+            System.out.println("Step05 LogOut FAILED");
         } else {
-            System.out.println("Step04 LogOut PASSED");
+            System.out.println("Step05 LogOut PASSED");
         }
     }
 
