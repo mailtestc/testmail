@@ -125,7 +125,6 @@ public class TestMail {
     public void s05_LogOut() {
         WebElement submit = driver.findElementById("PH_logoutLink");
         submit.click();
-
         WebElement newlogin = driver.findElementById("mailbox:login");
         if (newlogin == null) {
             System.out.println("Step05 LogOut FAILED");
