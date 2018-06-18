@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Markettest">
+    <test name="Alfatest" preserve-order="true">
+        <classes>
+            <class name="Mailtest">
+                <methods>
+                    <include name="Mailtest" />
+                </methods>
+            </class>
+        </classes>
+
+    </test>
+</suite>
