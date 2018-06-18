@@ -84,14 +84,14 @@ public class TestMail {
 
         mailLink.click();
 
-/*
-        if (ExpectedConditions.visibilityOf(driver.findElement(By.className("b-letter__body"))) == null) {
+
+        if (ExpectedConditions.visibilityOf(mailLink) == null) {
             System.out.println("Step03 OpenMail FAILED");
         } else {
             System.out.println("Step03 OpenMail PASSED");
-        }*/
+        }
     }
-/*
+
     @Test
     public void s04_CheckMail() {
         String senderemail, subject, bodyemail;
@@ -139,4 +139,4 @@ public class TestMail {
         new WebDriverWait(driver, 15).until(ExpectedConditions.visibilityOf(driver.findElementByClassName("games")));
         driver.close();
     }
-*/}
+}
